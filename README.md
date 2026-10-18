@@ -4,7 +4,7 @@
 
 ## 配布物
 
-- `machimeshi-1_5_4.xdc`：DeltaChat用の更新版。
+- `machimeshi-1.5.4.xdc`：DeltaChat用の更新版。
 - 'machimeshi.html': html形式マニュアルです。
 - `machimeshi-1_5_4-demo.html`：ブラウザでのデモ用 4件のサンプル・8種類の支払方法・模擬決済付き。実課金はありません。
   
